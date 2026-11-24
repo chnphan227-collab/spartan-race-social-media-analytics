@@ -60,12 +60,12 @@ To measure execution impact post-optimization, a recurring Weekly/Monthly Tracke
 ## 5. Repository Structure
 
 ```text
-├── Spartan_Race_Case_Study.pdf   # Full 17-slide analytical presentation
+├── Spartan_Race_Data.xlsx        # Dataset containing 393 Facebook posts across 17 variables
+├── Spartan_Race_Analysis.xlsb    # Full Excel binary workbook with pivot tables, formulas & outlier analysis
+├── Spartan_Race_Report.pdf       # Full 17-slide analytical presentation & strategic recommendations
+├── LICENSE                       # MIT License
 └── README.md                     # Project summary, methodology & key findings
 ```
-*(Note: Update this tree if raw dataset `.xlsx`/`.csv` or `.pbix` files are uploaded to the repository).*
-
----
 
 ## 6. Limitations & Next Steps
 
